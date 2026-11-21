@@ -1,0 +1,7 @@
+Dataset,Rows,Columns,Missing_Values,Duplicate_Rows
+Train,3000888,8,0,0
+Test,28512,5,0,0
+Stores,54,5,0,0
+Oil,1218,2,43,0
+Holidays,350,6,0,0
+Transactions,83488,3,0,0
