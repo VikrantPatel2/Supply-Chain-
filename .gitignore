@@ -11,3 +11,5 @@ venv/
 *.model
 *.log
 .DS_Store
+
+reports/*.csv
