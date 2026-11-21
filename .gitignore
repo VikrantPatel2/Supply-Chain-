@@ -1,0 +1,13 @@
+Data/Raw/
+Data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.pkl
+*.joblib
+*.h5
+*.model
+*.log
+.DS_Store
