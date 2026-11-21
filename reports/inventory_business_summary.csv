@@ -1,0 +1,10 @@
+metric,value
+Total store-family combinations,1782.0
+Critical inventory records,197.0
+High-risk inventory records,172.0
+Total at-risk records,369.0
+At-risk percentage,20.71
+Urgent replenishment records,197.0
+Reorder required records,172.0
+Total recommended order quantity,7596.0
+Total inventory position,40084.0
